@@ -7,7 +7,7 @@ I'm a researcher and analyst working at the intersection of energy systems, resi
 - **Hybrid Energy Systems for Resilience**: Designing distributed, least-cost backup power solutions for electrical distribution grids.
 - **Tool Development**: Improving and deploying computational models to support practical decision-making.
 
-[Google Scholar](https://scholar.google.com/citations?user=LIrqbjoAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=OHBQ2MoAAAAJ)
 
 ## Selected Skills
 - Mixed-integer and nonlinear optimization (AMPL, Gurobi)
